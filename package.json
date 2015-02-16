@@ -1,0 +1,9 @@
+{
+  "title": "Hello, World!",
+  "description": "Tabris.js - Hello, World!",
+  "category": "Small Apps",
+  "main": "hello.js",
+  "dependencies": {
+    "tabris": "https://tabrisjs.com/downloads/nightly/tabris.tgz"
+  }
+}
